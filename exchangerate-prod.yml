@@ -1,0 +1,14 @@
+application:
+  location: config (GitHub)
+  config:
+    profile: prod
+    description: valor obtenido desde 'exchangerate-prod.yml'
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://aromeroh:<password>@cluster0.0gini.mongodb.net/exchangerate
+
+logging:
+  level:
+    root: info
