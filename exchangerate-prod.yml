@@ -7,7 +7,7 @@ application:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://aromeroh:<password>@cluster0.0gini.mongodb.net/exchangerate
+      uri: mongodb+srv://nttdata-project01:nttdata-project01@cluster-poject01-mongdb.lhnso.mongodb.net/test
 
 logging:
   level:
