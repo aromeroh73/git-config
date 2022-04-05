@@ -7,7 +7,7 @@ application:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://nttdata-project01:nttdata-project01@cluster-poject01-mongdb.lhnso.mongodb.net/test
+      uri: mongodb+srv://aromeroh:q8Kf4Ppp@cluster0.0gini.mongodb.net/exchangerate?retryWrites=true&w=majority
 
 logging:
   level:
